@@ -1,7 +1,6 @@
-import Link from 'next/link'
+import { NewMemoryForm } from '@/components/NewMemoryForm'
 import { ChevronLeft } from 'lucide-react'
-
-import { NewMemoryForm } from '@/components'
+import Link from 'next/link'
 
 export default function NewMemory() {
   return (
