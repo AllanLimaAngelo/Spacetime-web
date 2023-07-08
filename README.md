@@ -2,7 +2,7 @@
    <img src="https://raw.githubusercontent.com/AllanLimaAngelo/Spacetime-web/main/src/app/icon.png" alt="NLW Spacetime" width="300"/>
 </h1>
 <h1 align="center">
-   NLW Spacetime - Cápsula do Tempo
+   NLW Spacetime-web - Cápsula do Tempo
 </h1>
 
 ## 💻 Projeto
