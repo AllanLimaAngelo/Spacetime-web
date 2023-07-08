@@ -1,1 +1,12 @@
-# Spacetime-web
+<h1 align="center">
+   <img src="https://raw.githubusercontent.com/AllanLimaAngelo/main/Spacetime-web/src/app/icon.png" alt="NLW Spacetime" width="300"/>
+</h1>
+<h1 align="center">
+   NLW Spacetime - Cápsula do Tempo
+</h1>
+
+## 💻 Projeto
+
+Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+
+---
